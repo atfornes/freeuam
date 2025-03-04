@@ -1,0 +1,44 @@
+tags:: Software Libre, Cultura Libre, Ciencia Abiert, Procomún, Creative Commons
+
+- ## Orígenes y antecedentes
+	- ### Software
+		- Desarrollo colaborativo en universidades
+		- Comunidades de usuarios y desarrolladores
+		- Hasta la llegada del software privativo
+		-
+- ### Bienes comunes
+	- Tradicionales
+	- Digitales
+		- Software Libre
+		- Wikipedia
+		- Indimedia
+- ## Comunidades
+	-
+- ## Algunos apuntes sobre la cultura libre en España
+-
+- ## Open ...
+	- ### [[Open Access]]
+	- ### [[Open Science]]
+	- ### [[Open Data]]
+	- ### [[Open Development]]
+	- ### [[Open Artificial Intelligence]]?
+	-
+- ## Reflexiones Finales
+	-
+	-
+- ## Notas de preparación de la charla
+	- Origen: software libre -> universidad, conocimiento. Comunes: historia mucho más larga: DIY, comunes tradicionales,etc.
+	- Procomún y procomún digital
+		- Ostrom
+	- 1 9 90 ...
+	- Creative Commons, la tabacalera, el diario, traficantes de sueños, indimedia, wikipedia...
+	- Redes libres y descentralizadas.
+	- Freesound, repos cc, búsquedas derechos de autor,
+	- Mc Kenzie Wark? Editoriales académicas, etc.
+	- Licencias no open?
+	- Open development, open science.
+	- Open education? "adoption of open educational resources in support of open educational practices."
+	- OER Commons
+	- Fin; Swartz vs IA https://iartificial.blog/en/development/battle-definition-ia-open-source/
+	- TODO: Check diapos P2P, diapos mias antiguas, diapos del año pasado.
+	- Ciencia ciudadana? Ginopunks?
