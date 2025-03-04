@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "[[Software Libre]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67c56b38-adc2-4897-a0d7-46d6ede83d09"}
+:block/properties 
+{}
+:block/uuid #uuid "67c56cba-a78f-4b8f-af7d-768a7e46c159"} 
+{:block/created-at 1740991918811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "gray"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:refs ["Cultura Libre más allá del Software"]
+:pageId "Software Libre"
+:scaleLevel "md"
+:fill "gray"
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 387.189208984375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4d04c930-f80c-11ef-a932-0591ea69b7d5"
+:noFill false
+:point [1640 -480]
+:parentId "67c56b38-adc2-4897-a0d7-46d6ede83d09"
+:collapsedHeight 271.729736328125
+:nonce 1740991718906}}
+:block/updated-at 1740991918811})
+:pages (
+{:block/uuid #uuid "67c56b38-adc2-4897-a0d7-46d6ede83d09"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "67c56b38-adc2-4897-a0d7-46d6ede83d09"
+:name "cultura libre más allá del software"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ()}}
+:block/updated-at 1740991686243
+:block/created-at 1740991288038
+:block/type "whiteboard"
+:block/name "cultura libre más allá del software"
+:block/original-name "Cultura Libre más allá del Software"})}

@@ -1,0 +1,46 @@
+- Ámbar Tenorio Fornés: ambar.tenorio@uam.es
+-
+- ## Introducción
+	- ### Qué es?
+		- Notas
+		- Base de conocimiento
+		- Alternativa libre a [[Roam Research]], [[Obsidian]] ...
+	- ### Para qué se usa?
+		- Gestionar tareas
+		- Notas enlazadas
+		- Anotar Papers
+		- Creación de contenido
+		- ...
+		-
+- ## Instalación
+	- [Descargar](https://logseq.com/downloads)
+	-
+- ## ¿Cómo escribir? ... Usando markdown
+	- *Páginas, bloques etiquetas, imágenes, etc.*
+	- [[Markdown]]
+-
+- ## Plugins
+	- _10 must-have plugins for Logseq_ - [10 must-have plugins for Logseq – Logseq Community Hub](https://hub.logseq.com/use-cases/1Sr4awszMQzD4GM5KvWim7/10-must-have-plugins-for-logseq/jgDG2ZVkeZGSQHXUNkWroo)
+	- Agenda
+- ## Integraciones
+	- ### Navegador
+		- [Link-Md](https://addons.mozilla.org/es-ES/firefox/addon/link-md/)
+	- ### Zotero
+	- ### Git
+	- ### PDFs
+	- ### Vídeos
+	- ...
+- ## Para profundizar
+	- [Queries](https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/how-to-use-queries-and-indentation-in-logseq/c3hkRvkQWqE55Ccv91NGT4)
+	- [Templates](https://www.appsntips.com/learn/create-use-templates-logseq/)
+	-
+- ![blockchains-3469268-peer-review-v1.pdf](../assets/blockchains-3469268-peer-review-v1_1740996439178_0.pdf)
+-
+- ## Referencias
+	- [Logseq Community Hub](https://hub.logseq.com/)
+	- [Logseq for Research](https://blog.logseq.com/newsletter-10-how-to-use-logseq-for-research/)
+	- ### Recursos:
+		- ["Queries" útiles para organizar tareas](https://discuss.logseq.com/t/queries-for-task-management/14937)
+		-
+-
+-
